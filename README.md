@@ -140,13 +140,7 @@ AntWork는 롯데 그룹의 사내 협업 플랫폼을 현대화하고, 실무 �
 ---
 
 ## 🎥 기능 시연
-[시연 영상 바로가기](https://www.youtube.com/watch?v=awnQofAVuoo)
-
----
-
-## 🤝 질문 및 피드백
-- **최준혁 팀장**: (loveu9911111@gmail.com)
-- **GitHub Issues**: [프로젝트 관련 이슈 보고](https://github.com/junhyeokkk/Antwork/issues)
+[시연 영상 바로가기](https://www.youtube.com/watch?v=EtwH4WvMnJo&t=764s)
 
 ---
 
